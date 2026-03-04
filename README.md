@@ -2,6 +2,8 @@
 
 Application graphique développée en **C++** avec **Qt 6.10.1 (Qt Widgets)** permettant de gérer une **commande de livraison** et de calculer automatiquement son **prix** en fonction de plusieurs options.
 
+<img width="490" height="226" alt="image" src="https://github.com/user-attachments/assets/1190ba1c-1834-4280-8380-3ba18be44500" />
+
 ----------------------------------------------------------------
 
 ## Fonctionnalités
